@@ -1,0 +1,47 @@
+/* .grid-container{
+   display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-gap: 10px;
+  padding: 10px;
+  column-count: 2;
+}
+
+.task_container{
+  padding-top: 200px;
+  margin-left: 2rem;
+ background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+}
+
+.header{
+  overflow: hidden;
+  background-color: #f87676;
+  padding: 20px 10px;
+  text-align: center;
+}
+
+.task_form{
+  position: relative;
+  left: 1100px;
+  width: 200px;
+  height: 100px;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  line-height:2;
+  width: 300px;
+  height: 200px;
+  padding: 15px;
+  background-color: yellow;
+  box-shadow: 10px 10px grey;
+  
+}
+
+.wrapper{
+ margin-left: 2rem;
+ background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+} */
